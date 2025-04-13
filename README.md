@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi im Tobias! 👋
+
+- 🔭 I’m currently working on understanding how embedded Systems work with my own project like [this]
+- 🌱 I’m currently learning how to incorporate Electronics and Microcontrollers into mechanical Systems
+
+
 
 <!--
 **Nalgen/Nalgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
